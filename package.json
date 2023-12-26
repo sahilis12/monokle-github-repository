@@ -1,12 +1,15 @@
 {
-    "name": "Template",
+    "name": "template",
     "description": "custom template plugins",
     "version": "1.0.0",
     "author": "Sahil Belurkar",
     "repository": "https://github.com/sahilis12/monokle-github-repository",
     "monoklePlugin": {
         "modules": [
-            
+            {
+                "type":"template",
+                "path":"basic-pod-template"
+            }
         ]
     }
 }

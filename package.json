@@ -5,6 +5,8 @@
     "author": "Sahil Belurkar",
     "repository": "https://github.com/sahilis12/monokle-github-repository",
     "monoklePlugin": {
+        "id": "com.github.sahil-belurkar.plugin.templates.basic-pod-template",
+        "helpUrl": "https://github.com/sahilis12/monokle-github-repository",
         "modules": [
             {
                 "type":"template",
